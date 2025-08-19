@@ -28,7 +28,7 @@ Power BI dashboard project highlighting key trends and performance metrics in sa
 🌟 [**Python for Data Analysis**](https://github.com/kanchansingh1021/python-for-data-analysis)  
 Hands-on Python practice for analytics: pandas, data cleaning, and visualization basics.  
 
-🌟 [**Profile Repository**](https://github.com/kanchansingh0121/kanchansingh0121)  
+🌟 [**Profile Repository**](https://github.com/kanchansingh1021/kanchansingh1021)  
 This very repository that powers my GitHub profile README.  
 
 ---
