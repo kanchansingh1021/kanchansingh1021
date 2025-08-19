@@ -25,7 +25,7 @@ End-to-end project using SQL & Power BI: from data extraction to interactive das
 🌟 [**Coffee Shop Sales**](https://github.com/kanchansingh1021/Coffee-Shop-Sales)  
 Power BI dashboard project highlighting key trends and performance metrics in sales.  
 
-🌟 [**Python for Data Analysis**](https://github.com/kanchansingh0121/python-for-data-analysis)  
+🌟 [**Python for Data Analysis**](https://github.com/kanchansingh1021/python-for-data-analysis)  
 Hands-on Python practice for analytics: pandas, data cleaning, and visualization basics.  
 
 🌟 [**Profile Repository**](https://github.com/kanchansingh0121/kanchansingh0121)  
