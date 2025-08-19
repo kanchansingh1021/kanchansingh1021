@@ -17,10 +17,19 @@
 
 ---
 
-## 📂 Featured Repositories
+## 📌 Featured Repositories  
 
-🔹 [Coffee Shop Sales Dashboard](https://github.com/kanchansingh1021/coffee-sales-dashboard)  
-🔹 [Learning Journal – Python & Analytics](https://github.com/kanchansingh1021/learning-journal)
+🌟 [**Pizza Sales Analysis**](https://github.com/kanchansingh0121/Pizza-Sales-Analysis)  
+End-to-end project using SQL & Power BI: from data extraction to interactive dashboard, uncovering sales insights.  
+
+🌟 [**Coffee Shop Sales**](https://github.com/kanchansingh0121/Coffee-Shop-Sales)  
+Power BI dashboard project highlighting key trends and performance metrics in sales.  
+
+🌟 [**Python for Data Analysis**](https://github.com/kanchansingh0121/python-for-data-analysis)  
+Hands-on Python practice for analytics: pandas, data cleaning, and visualization basics.  
+
+🌟 [**Profile Repository**](https://github.com/kanchansingh0121/kanchansingh0121)  
+This very repository that powers my GitHub profile README.  
 
 ---
 
