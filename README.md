@@ -22,7 +22,7 @@
 🌟 [**Pizza Sales Analysis**](https://github.com/kanchansingh0121/Pizza-Sales-Analysis)  
 End-to-end project using SQL & Power BI: from data extraction to interactive dashboard, uncovering sales insights.  
 
-🌟 [**Coffee Shop Sales**](https://github.com/kanchansingh0121/Coffee-Shop-Sales)  
+🌟 [**Coffee Shop Sales**](https://github.com/kanchansingh1021/Coffee-Shop-Sales)  
 Power BI dashboard project highlighting key trends and performance metrics in sales.  
 
 🌟 [**Python for Data Analysis**](https://github.com/kanchansingh0121/python-for-data-analysis)  
