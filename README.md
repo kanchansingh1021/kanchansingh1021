@@ -19,7 +19,7 @@
 
 ## 📌 Featured Repositories  
 
-🌟 [**Pizza Sales Analysis**](https://github.com/kanchansingh0121/Pizza-Sales-Analysis)  
+🌟 [**Pizza Sales Analysis**](https://github.com/kanchansingh1021/Pizza-Sales-Analysis)  
 End-to-end project using SQL & Power BI: from data extraction to interactive dashboard, uncovering sales insights.  
 
 🌟 [**Coffee Shop Sales**](https://github.com/kanchansingh1021/Coffee-Shop-Sales)  
